@@ -2,6 +2,9 @@
 
 Bem-vindo ao meu portfólio!
 
+<img src="/images/printcomputador.png" alt="printcomputador">
+<img src="/images/printresponsivo.png" alt="printresponsivo" width="375" height="667">
+
 ## Sobre Mim
 
 - **Nome:** Mariana Ferroni
