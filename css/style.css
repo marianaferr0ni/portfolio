@@ -6,7 +6,6 @@
     transition: 0.3s;
     width: 20%;
     height: auto;
-    
     margin-right: 25px;
 }
 p{
@@ -28,5 +27,20 @@ p{
         transition: 0.3s;
         width: 90%;
         height: auto;
+        margin-right: 25px;
+        margin-bottom: 25px;
     }   
+    p{
+        text-align: justify;
+    }
+    .cardlist{
+        margin-left: 25px;
+        display: block;
+    }
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }  
+    .container {
+        padding: 2px 16px;
+    }
 }
